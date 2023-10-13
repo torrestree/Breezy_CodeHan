@@ -7,7 +7,8 @@
     xmlns:hc="https://handyorg.github.io/handycontrol"
     xmlns:local="clr-namespace:Breezy"
     mc:Ignorable="d"
-    Title="清风ERP·汉" Height="1080" Width="1920">
+    Title="清风ERP·汉" Height="1080" Width="1920"
+    BorderThickness="0" ActiveGlowColor="LightSkyBlue" InactiveGlowColor="Silver">
     <Grid>
 
     </Grid>
